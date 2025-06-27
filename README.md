@@ -1,7 +1,8 @@
-## Hi there 👋 I am a Biostatistician for the Department of Public Health Sciences, at the University of Miami.
+## Data Scientist
 
-- 🔭 I’m currently researching opiod use disorder, working within the CTN-0094 package.
-- 🌱 I’m currently learning how to code in python and CSS.
+- Familiar coding in R/Python
+- 2 years experience in machine learning 
+- I’m currently learning more about MLOps
 
 
 
